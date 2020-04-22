@@ -30,6 +30,8 @@
   },
   "homepage": "https://github.com/oblador/react-native-lightbox",
   "dependencies": {
-    "prop-types": "^15.7.2"
+    "@babel/runtime": "^7.9.2",
+    "prop-types": "^15.7.2",
+    "react": "^16.13.1"
   }
 }
